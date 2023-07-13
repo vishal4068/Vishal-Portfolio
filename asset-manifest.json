@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Vishal-Portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/Vishal-Portfolio/static/js/main.78b7ffd7.js",
+    "static/js/787.46f29602.chunk.js": "/Vishal-Portfolio/static/js/787.46f29602.chunk.js",
+    "static/media/devpic.jpg": "/Vishal-Portfolio/static/media/devpic.e59cceb87ff9e2acb4b0.jpg",
+    "static/media/cv.pdf": "/Vishal-Portfolio/static/media/cv.5ce4b1bdfb64da09dd4d.pdf",
+    "index.html": "/Vishal-Portfolio/index.html",
+    "main.073c9b0a.css.map": "/Vishal-Portfolio/static/css/main.073c9b0a.css.map",
+    "main.78b7ffd7.js.map": "/Vishal-Portfolio/static/js/main.78b7ffd7.js.map",
+    "787.46f29602.chunk.js.map": "/Vishal-Portfolio/static/js/787.46f29602.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.78b7ffd7.js"
+  ]
+}
